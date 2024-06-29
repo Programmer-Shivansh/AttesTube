@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-icon/youtube_318-674529.jpg?t=st=1692257029~exp=1692257629~hmac=a2ce8f02ef70192f854e4d2eb82f327515b5f94bc192c5b8da297a9e57cfad82" alt="AttesTube Logo" width="200"/>
+  <img src="./public/try.png" alt="AttesTube Logo" width="200"/>
   <h1>AttesTube</h1>
   <p>
     AttesTube is a cutting-edge platform for on-chain attestation of YouTube video comments using Ethereum Attestation Service (EAS).
@@ -16,8 +16,7 @@
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 
@@ -90,30 +89,3 @@ Follow these steps to set up AttesTube on your local machine:
 5. **Get Recommendations**: Explore recommendations based on blockchain-verified feedback from other users.
 6. **Provide Feedback**: Rate and comment on videos, with your feedback securely recorded on the blockchain.
 
-## Contributing
-
-We welcome contributions to AttesTube! To contribute, follow these steps:
-
-1. **Fork the repository**: Create a personal copy of the repository on GitHub.
-2. **Create a new branch**: Develop your feature or fix on a separate branch:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. **Make changes**: Implement your changes and test thoroughly.
-4. **Commit changes**: Save your changes with a descriptive commit message:
-    ```bash
-    git commit -m 'Add feature-name'
-    ```
-5. **Push changes**: Upload your branch to your forked repository:
-    ```bash
-    git push origin feature-name
-    ```
-6. **Submit a pull request**: Open a pull request on the main repository to propose your changes.
-
-## License
-
-AttesTube is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
-
-## Contact
-
-For any questions or feedback about AttesTube, please reach out to [your.email@example.com](mailto:your.email@example.com).
