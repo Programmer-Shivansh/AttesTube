@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/try.png" alt="AttesTube Logo" width="200"/>
+  <img src="./public/main.png" alt="AttesTube Logo" width="200"/>
   <h1>AttesTube</h1>
   <p>
     AttesTube is a cutting-edge platform for on-chain attestation of YouTube video comments using Ethereum Attestation Service (EAS).
